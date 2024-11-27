@@ -1,4 +1,4 @@
-# Lab #1,21110807, Ly Nguyen Nhat Trung
+# Lab #2,21110807, Ly Nguyen Nhat Trung
 # Task 1: Firewall configuration 
 
 ---
