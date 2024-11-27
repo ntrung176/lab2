@@ -236,12 +236,3 @@
 
 ---
 
-## Lưu Ý
-- Đảm bảo sử dụng mật khẩu mạnh và an toàn.
-- Xác minh kết quả giải mã để đảm bảo tính chính xác.
-- Ghi lại kết quả thử nghiệm và nhận xét rõ ràng cho từng chế độ mã hóa.
-
---- 
-
-**Kết thúc!**
-
